@@ -61,7 +61,5 @@ I’m a passionate **Frontend Developer** with a solid background in **WordPress
 ## 📬 Get in Touch
 You can email me anytime at [den.kuchma10@gmail.com](mailto:den.kuchma10@gmail.com)
 
----
 
-![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
