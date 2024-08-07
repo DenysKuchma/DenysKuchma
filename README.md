@@ -13,8 +13,9 @@ I’m a passionate **Frontend Developer** with a solid background in **WordPress
 - **Frontend Developer** (NDA)
 
 ## 📚 Completed Courses
-- **A-level**: Front-end
-- **Infopulse**: Front-end
+- **A-level**: Frontend
+- **A-level**: Python
+- **Infopulse**: Frontend
 
 ## 🔧 Skills
 
