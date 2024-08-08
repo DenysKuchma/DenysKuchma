@@ -38,6 +38,10 @@ I’m a passionate **Frontend Developer** with a solid background in **WordPress
 - PostgreSQL
 - GraphQL
 
+### APIs
+- REST API
+- HTTP Methods
+
 ### CSS Preprocessors
 - SASS
 - SCSS
