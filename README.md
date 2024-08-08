@@ -68,6 +68,7 @@ I’m a passionate **Frontend Developer** with a solid background in **WordPress
 - Jira
 - Confluence
 - Logz.io
+- Apollo
 ---
 
 ## 📬 Get in Touch
