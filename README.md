@@ -24,9 +24,9 @@ I’m a passionate **Frontend Developer** with a solid background in **WordPress
 - CSS3
 - JavaScript
 
-### Tools & Frameworks
+### Technologies
 - Vue.js
-- React
+- React.js
 - jQuery
 
 ### Version Control
@@ -35,7 +35,7 @@ I’m a passionate **Frontend Developer** with a solid background in **WordPress
 
 ### Databases
 - MySQL
-- PSQL
+- PostgreSQL
 - GraphQL
 
 ### CSS Preprocessors
@@ -46,17 +46,24 @@ I’m a passionate **Frontend Developer** with a solid background in **WordPress
 - Flexbox
 - Grid
 
-### Other Tools
+### Development Tools
+- Jest
+- Vuetify
+- Next.js
+- Router
+- Vuex/Redux
+- MUI
+- jQuery
+
+### Additional Skills
 - WordPress
 - Figma
 - Docker
 - Postman
 - Jenkins
 - Jira
-- Jest
 - Confluence
-- Vuetify
-
+- Logz.io
 ---
 
 ## 📬 Get in Touch
