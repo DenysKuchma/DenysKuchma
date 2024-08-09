@@ -1,6 +1,6 @@
 # Hi, I’m Denys Kuchma 👋
 
-I’m a passionate **Frontend Developer** with a solid background in **WordPress Development** and a strong focus on creating visually appealing and functional websites.
+I’m a passionate **Frontend Developer** with a solid background in creating visually appealing and highly functional websites. I also have experience as a **WordPress Developer**, where I’ve worked on building and customizing WordPress sites.
 
 ---
 
