@@ -11,6 +11,7 @@ I’m a passionate **Frontend Developer** with a solid background in creating vi
 ## 💼 Work Experience
 - **WordPress Developer** (Freelance)
 - **Frontend Developer** (NDA)
+- **Frontend Developer** ("Consultant" Legal marketplace)
 
 ## 📚 Completed Courses
 - **A-level**: Frontend
@@ -23,11 +24,11 @@ I’m a passionate **Frontend Developer** with a solid background in creating vi
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
 
 ### Technologies
 - Vue.js
 - React.js
-- jQuery
 
 ### Version Control
 - GitHub
@@ -38,37 +39,47 @@ I’m a passionate **Frontend Developer** with a solid background in creating vi
 - PostgreSQL
 - GraphQL
 
-### APIs
+### APIs & Protocols
 - REST API
 - HTTP Methods
+- WebSocket
+- WebRTC
 
-### CSS Preprocessors
+### CSS Preprocessors & Frameworks
 - SASS
 - SCSS
+- Tailwind CSS
+- Bootstrap
 
 ### Responsive Design
 - Flexbox
 - Grid
+- Media Queries
 
-### Development Tools
-- Jest
+### Frontend Tools
 - Vuetify
-- Next.js
 - Router
 - Vuex/Redux
 - MUI
 - jQuery
+- Blade Laravel
+- Webpack
+
+### Testing Tools
+- Jest
 
 ### Additional Skills
 - WordPress
+- Shopify
 - Figma
 - Docker
 - Postman
 - Jenkins
-- Jira
+- Jira/Trello
 - Confluence
 - Logz.io
 - Apollo
+- Scrum/Kanban
 ---
 
 ## 📬 Get in Touch
