@@ -1,4 +1,4 @@
-# Hi, I'm Denys Kuchma — Front-End Developer (Vue/React, TypeScript) 👋
+# Hi, I'm Denys Kuchma — Frontend Developer (Vue/React, TypeScript) 👋
 
 Kyiv, UA (UTC+2/3) · Open to relocation  
 [LinkedIn](https://www.linkedin.com/in/denys-kuchma) · [GitHub](https://github.com/DenysKuchma) · [Email](mailto:den.kuchma10@gmail.com)
