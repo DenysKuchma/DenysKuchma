@@ -1,6 +1,6 @@
 # Hi, I'm Denys 👋
 
-Frontend Engineer focused on modern web applications, developer tools, real-time systems, and product engineering.
+Frontend Engineer focused on developer tools, real-time applications, web performance, and product engineering.
 
 I enjoy building products that solve real problems for both users and developers.
 
