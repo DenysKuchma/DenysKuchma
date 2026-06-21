@@ -1,43 +1,96 @@
-# Hi, I'm Denys Kuchma — Frontend Engineer 👋
+# Hi, I'm Denys 👋
 
-Kyiv, Ukraine · Open to Remote / Relocation  
-[LinkedIn](https://www.linkedin.com/in/denys-kuchma) · [Email](mailto:den.kuchma10@gmail.com)
+Frontend Engineer focused on modern web applications, developer tools, real-time systems, and product engineering.
 
----
+I enjoy building products that solve real problems for both users and developers.
 
-### About me
-Frontend Engineer focused on building **scalable, performant, and real-time web applications**.
-
-I primarily work with **Vue and JavaScript**, with additional experience in **React**, and enjoy solving problems around **architecture, performance, and complex UI systems**.
-
-Recently, I’ve been working with:
-- real-time features (**WebRTC / WebSocket**)  
-- frontend architecture and modular systems  
-- performance optimization (**Core Web Vitals**)  
-- testing ecosystems and **AI-assisted automation**  
+📍 Spain · Open to Remote / Relocation  
+💼 LinkedIn: https://linkedin.com/in/denys-kuchma  
+📧 Email: [den.kuchma10@gmail.com](mailto:den.kuchma10@gmail.com)
 
 ---
 
-### Experience highlights
-- Built and maintained **production marketplace and CRM systems** as a sole frontend engineer  
-- Designed modular architectures and improved build performance (~40%)  
-- Implemented **real-time communication features** (audio, video, chat)  
-- Developed **embeddable SDKs** and integration systems  
-- Contributed to **testing frameworks and automation workflows (CodeceptJS, AI)**  
+## About me
+
+I'm a Frontend Engineer with experience building production products, internal platforms, developer tooling, and complex frontend systems.
+
+I primarily work with Vue and JavaScript, with additional experience in React, and enjoy solving problems related to architecture, performance, real-time systems, and developer experience.
+
+Over the past several years I've worked on:
+
+* production marketplace platforms
+* internal CRM systems
+* real-time communication features
+* developer tools and automation workflows
+* frontend architecture and performance optimization
+
+I enjoy solving challenging engineering problems and building products that improve the experience for both users and developers.
 
 ---
 
-### Tech stack
-**Frontend:** JavaScript (ES6+), Vue, React  
-**State & Routing:** Pinia, Redux Toolkit, Vue Router  
-**Styling:** CSS, SCSS, Tailwind, Bootstrap, MUI  
-**Performance:** Core Web Vitals, Lighthouse, optimization techniques  
-**Testing:** Jest, Vitest, RTL, CodeceptJS, Playwright, Cypress  
-**Tools:** Vite, Webpack, Node.js, Docker, CI/CD  
-**APIs & Realtime:** REST, GraphQL, WebSocket, WebRTC  
+## Experience Highlights
+
+* Sole frontend engineer for a production marketplace and internal CRM platform
+* Built real-time communication features using WebRTC and WebSocket technologies
+* Improved Core Web Vitals and frontend performance on production applications
+* Designed modular frontend architectures and optimized build pipelines
+* Developed embeddable SDKs and integration systems
+* Contributed to testing ecosystems, automation tooling, and developer experience initiatives
+* Worked on AI-assisted testing workflows and exploratory testing approaches
 
 ---
 
-### Contact
-- 📧 den.kuchma10@gmail.com  
-- 🔗 https://linkedin.com/in/denys-kuchma
+## Areas of Interest
+
+* Developer Tools
+* Frontend Architecture
+* Real-Time Applications
+* Performance Engineering
+* Product Engineering
+* Automation Workflows
+* AI-Assisted Testing
+
+---
+
+## Tech Stack
+
+### Frontend
+
+JavaScript (ES6+), TypeScript, Vue.js, React
+
+### State Management
+
+Pinia, Redux Toolkit
+
+### Styling
+
+SCSS, Tailwind CSS, Bootstrap, MUI
+
+### APIs & Real-Time
+
+REST, GraphQL, WebSocket, WebRTC
+
+### Testing
+
+CodeceptJS, Playwright, Cypress, Vitest, Jest
+
+### Tooling
+
+Vite, Webpack, Docker, CI/CD
+
+---
+
+## Currently Working With
+
+* Developer tools and automation
+* Modern frontend architecture
+* Real-time applications
+* Performance engineering
+* AI-assisted workflows
+* Product engineering
+
+---
+
+💬 Feel free to connect or reach out to discuss frontend engineering, developer tools, testing, or product development.
+
+---
