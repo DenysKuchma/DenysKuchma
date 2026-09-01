@@ -1,8 +1,8 @@
 # Hi, I'm Denys 👋
 
-Frontend Engineer focused on developer tools, real-time applications, web performance, and product engineering.
+Frontend Engineer working across product development, developer tools, real-time systems, web performance, and agentic AI.
 
-I enjoy building products that solve real problems for both users and developers.
+I enjoy building technically challenging products that solve real problems for both users and developers.
 
 📍 Spain · Open to Remote / Relocation  
 💼 LinkedIn: https://linkedin.com/in/denys-kuchma  
@@ -12,43 +12,38 @@ I enjoy building products that solve real problems for both users and developers
 
 ## About me
 
-I'm a Frontend Engineer with experience building production products, internal platforms, developer tooling, and complex frontend systems.
+I'm a Frontend Engineer with experience building production products, internal platforms, developer tooling, real-time systems, and AI-driven automation.
 
-I primarily work with Vue and JavaScript, with additional experience in React, and enjoy solving problems related to architecture, performance, real-time systems, and developer experience.
+I primarily work with JavaScript, TypeScript, and Vue, with additional experience in React. I enjoy the parts of engineering where things get more complex: architecture, performance, integrations, real-time communication, automation, and developer experience.
 
-Over the past several years I've worked on:
+My recent work has also moved deeper into developer tooling and agentic AI, including multi-agent systems, browser automation, test generation, MCP integrations, and testing infrastructure.
 
-* production marketplace platforms
-* internal CRM systems
-* real-time communication features
-* developer tools and automation workflows
-* frontend architecture and performance optimization
-
-I enjoy solving challenging engineering problems and building products that improve the experience for both users and developers.
+I like building things that are useful, reliable, and maintainable, whether they're used by end users or other developers.
 
 ---
 
 ## Experience Highlights
 
-* Sole frontend engineer for a production marketplace and internal CRM platform
-* Built real-time communication features using WebRTC and WebSocket technologies
-* Improved Core Web Vitals and frontend performance on production applications
-* Designed modular frontend architectures and optimized build pipelines
-* Developed embeddable SDKs and integration systems
-* Contributed to testing ecosystems, automation tooling, and developer experience initiatives
-* Worked on AI-assisted testing workflows and exploratory testing approaches
+* Owned frontend development for a production marketplace and internal CRM as the sole Frontend Engineer
+* Built production real-time audio, video, and chat systems using WebRTC and WebSockets
+* Improved Core Web Vitals, frontend performance, and build architecture across production applications
+* Built partner integrations and embeddable SDK solutions
+* Contribute to the next generation of CodeceptJS and developer tooling around testing and automation
+* Built autonomous multi-agent AI systems for exploratory testing, browser automation, and test generation
+* Developed AI agent infrastructure and MCP integrations connecting LLMs with developer and testing workflows
 
 ---
 
 ## Areas of Interest
 
+* Frontend & Product Engineering
 * Developer Tools
+* Agentic AI Systems
 * Frontend Architecture
-* Real-Time Applications
+* Real-Time Systems
 * Performance Engineering
-* Product Engineering
-* Automation Workflows
-* AI-Assisted Testing
+* Automation Infrastructure
+* Developer Experience
 
 ---
 
@@ -58,39 +53,43 @@ I enjoy solving challenging engineering problems and building products that impr
 
 JavaScript (ES6+), TypeScript, Vue.js, React
 
+### AI & Agentic Systems
+
+LLM-powered agents, multi-agent workflows, MCP, tool calling, browser automation, test generation
+
 ### State Management
 
 Pinia, Redux Toolkit
 
 ### Styling
 
-SCSS, Tailwind CSS, Bootstrap, MUI
+HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap, MUI
 
 ### APIs & Real-Time
 
 REST, GraphQL, WebSocket, WebRTC
 
-### Testing
+### Testing & Automation
 
-CodeceptJS, Playwright, Cypress, Vitest, Jest
+CodeceptJS, Playwright, Cypress, Vitest, Jest, React Testing Library
 
 ### Tooling
 
-Vite, Webpack, Docker, CI/CD
+Vite, Webpack, Node.js, Docker, Git, CI/CD
 
 ---
 
 ## Currently Working With
 
-* Developer tools and automation
+* Agentic AI and multi-agent automation
+* Developer tools and testing infrastructure
+* Browser automation and test generation
 * Modern frontend architecture
 * Real-time applications
-* Performance engineering
-* AI-assisted workflows
-* Product engineering
+* Product integrations and performance
 
 ---
 
-💬 Feel free to connect or reach out to discuss frontend engineering, developer tools, testing, or product development.
+💬 Feel free to connect or reach out to discuss frontend engineering, developer tools, agentic AI, testing, or product development.
 
 ---
